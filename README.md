@@ -6,7 +6,7 @@ a simulation of a 3 dimensional random walk. user can specify number of walkers 
  - matplotlib
 
 ## images
- - showing axes
+ - showing axes (1,3,100 walkers respectively. each takes 10000 steps)
 ![1](https://github.com/michaelneuder/random_walkers/blob/master/img/1w_10000s_aon.png)
 
 ![3](https://github.com/michaelneuder/random_walkers/blob/master/img/3w_10000s_aon.png)
